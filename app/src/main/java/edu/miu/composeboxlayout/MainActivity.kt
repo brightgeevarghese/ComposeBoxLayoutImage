@@ -87,8 +87,8 @@ fun PersonLikeDislike(modifier: Modifier = Modifier) {
         )
 
         Image(
-            imageVector = Icons.Default.Clear,
-            contentDescription = "Launcher",
+            imageVector = Icons.Default.Lock,
+            contentDescription = "Lock",
             modifier = modifier
                 .size(50.dp)
                 .align(Alignment.TopStart)
