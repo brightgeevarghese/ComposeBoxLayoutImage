@@ -1,1 +1,2 @@
-<img width="568" alt="image" src="https://github.com/brightgeevarghese/ComposeBoxLayoutImage/assets/27910029/ec770023-d4fe-4de0-b79e-d40fee0a0e5a">
+<img width="506" alt="image" src="https://github.com/brightgeevarghese/ComposeBoxLayoutImage/assets/27910029/d9cd7058-0b8c-4f02-8205-b7a53bcf4d60">
+
